@@ -1,3 +1,13 @@
+# Flask
+## Install Flask: 
+- Execute the command pip install flask to install Flask.
+## Create a Flask App: 
+- Import the Flask class in a Python file, then create an instance of the Flask application.
+## Define Routes and View Functions: 
+- Use the @app.route() decorator to map URLs to Python functions that will be the view for that route.
+## Run the App: 
+- Invoke app.run() to start the development server for the application.
+
 # SDLC and Cloud Native Development
 # AI Tools in Digital Development
 
